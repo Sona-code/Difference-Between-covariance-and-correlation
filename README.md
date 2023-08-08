@@ -1,5 +1,5 @@
 # Difference-Between-covariance-and-correlation
-What is the use of correlation over covariance?
+What  is the use of correlation over covariance?
 
 
 Covariance tells you whether two variables tend to increase or decrease together. If one goes up when the other goes up, and down when the other goes down, they have positive covariance. If one goes up when the other goes down, and vice versa, they have negative covariance. However, the exact value of covariance doesn't have a standard scale, so it can be hard to interpret.
